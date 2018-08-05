@@ -34,4 +34,3 @@ pip2 install matplotlib
 pip2 install pyx==0.12.1
 pip2 install cryptography
 pip2 install scapy
-pip2 install keystone
